@@ -1,1 +1,1 @@
-<p align="center"><img src="https://gokisoft.com/img/logo3.png">GokiSoft.com - website học lập trình từ A - Z</p>
+<p align="center"><img src="https://gokisoft.com/img/logo3.png"><label style="font-size: 30px"><strong>GokiSoft.com - website học lập trình từ A - Z</strong></label></p>
